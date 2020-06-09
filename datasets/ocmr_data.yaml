@@ -1,8 +1,8 @@
 Name: OCMR
 Description: |
  OCMR is the fist open-access repository that provides multi-coil k-space data for cardiac cine. 
- The fully sampled datasets are intended for quantitative comparison and evaluation of image reconstruc-tion methods. 
- The free-breathing, prospectively undersampled datasets are intended to qualitativelyevaluate the 
+ The fully sampled datasets are intended for quantitative comparison and evaluation of image reconstruction methods. 
+ The free-breathing, prospectively undersampled datasets are intended to qualitatively evaluate the 
  generalizability of the reconstruction method.
 Documentation: https://github.com/MRIOSU/OCMR
 Contact: ahmad.46@osu.edu, chen.7211@osu.edu
@@ -15,7 +15,7 @@ Tags:
   - imaging
   - signal processing
   - machine learning
-License:
+License: Creative Commons Attribution-NonCommercial 4.0 International License (https://creativecommons.org/licenses/by-nc/4.0/)
 Resources:
   - Description:
     ARN:
